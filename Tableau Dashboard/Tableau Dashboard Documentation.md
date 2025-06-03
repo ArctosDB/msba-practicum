@@ -1,5 +1,7 @@
 # Arctos Tableau Dashboard
 
+[Tableau Arctos Dashboard](https://public.tableau.com/app/profile/shivani.tayade2152/viz/Arctos/Summary)
+
 **1. 📌 Project Overview**
 
 This Tableau dashboard provides a user-friendly, visual interface to explore and understand the system-level statistics from the Arctos collection management system. It’s designed to help researchers, data contributors, and institutions interactively explore taxonomic and geographic data, annotations, and record contributions.
