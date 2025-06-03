@@ -1,4 +1,4 @@
-# UC Davis Masters of Business Administration Practicum
+# UC Davis Master of Science in Business Analytics Practicum Project
 ## msba-practicum
 
 Repository for documentation and code associated with this 2024-2025 Practicum
