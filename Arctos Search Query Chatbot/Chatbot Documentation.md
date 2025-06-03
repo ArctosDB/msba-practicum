@@ -82,7 +82,7 @@ This is a screenshot of the Secrets.toml in Streamlit Community Cloud.
 
 ![image](https://github.com/user-attachments/assets/197921bf-80c2-4c42-a1ce-ab1e4c7f225a)
 
-requirements.txt
+**requirements.txt**
 
 - streamlit
 - openai
