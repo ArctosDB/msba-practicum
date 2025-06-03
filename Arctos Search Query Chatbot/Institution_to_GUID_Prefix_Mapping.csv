@@ -1,0 +1,59 @@
+Institution,GUID Prefixes
+Abilene Christian University,"ACUNHC:Bird,ACUNHC:Ento,ACUNHC:Fish,ACUNHC:Herp,ACUNHC:Inv,ACUNHC:Mamm,ACUNHC:Paleo"
+Academy of Natural Sciences of Drexel University,"ANSP:Host,ANSP:Para"
+Alabama Museum of Natural History,"ALMNH:Bird,ALMNH:EH,ALMNH:Ento,ALMNH:Geo,ALMNH:Inv,ALMNH:Mamm,ALMNH:Paleo"
+Angelo State Natural History Collections,"ASNHC:Bird,ASNHC:Herp,ASNHC:Mamm"
+Arctos Consortium,Arctos:Entity
+Arkansas Center for Biodiversity Collections,"ASUMZ:Bivalve,ASUMZ:Ento,ASUMZ:Fish,ASUMZ:Invert,ASUMZ:Mamm"
+Austin Peay State University,"APSU:Bird,APSU:Fish,APSU:Herp,APSU:Mamm"
+"Bell Museum, University of Minnesota","JFBM:Fish,MMNH:Bird,MMNH:Edu,MMNH:Mamm"
+Bridgewater State University Natural History Collection,"BSUNH:Bird,BSUNH:Herp,BSUNH:Inv,BSUNH:Mamm"
+Brigham Young University Life Science Museum,"BYU:Bird,BYU:Edu,BYU:Fish,BYU:Herp,BYU:Mamm,BYU:Teach,BYUObs:Herp"
+Burke Museum of Natural History and Culture (UWBM),"UWBM:Herp,UWBM:Mamm,UWBM:PB,UWBM:PR,UWBM:VP"
+Cal Poly Humboldt Vertebrate Museum,"HSUVM:Amph,HSUVM:Mamm"
+California Desert Studies Center,"CDSC:Bird,CDSC:Mamm"
+"California State University, Long Beach","CSULB:Bird,CSULB:Fish,CSULB:Herp,CSULB:Mamm"
+Chicago Academy of Sciences (CHAS),"CHAS:AV,CHAS:Art,CHAS:Bird,CHAS:EH,CHAS:Egg,CHAS:Ento,CHAS:Fish,CHAS:Herb,CHAS:Herp,CHAS:Inv,CHAS:Mamm,CHAS:Teach"
+College of the Atlantic,"COA:Bird,COA:Egg,COA:Ento,COA:Herp,COA:Mamm"
+Denver Museum of Nature and Science (DMNS),"DMNS:Bird,DMNS:Egg,DMNS:Herp,DMNS:Inv,DMNS:Mamm,DMNS:Para"
+Harold W. Manter Laboratory of Parasitology Collection (HWML),HWML:Para
+Huron Mountain Club Museum,"HMCM:Arthro,HMCM:Bird,HMCM:Geo,HMCM:Herb,HMCM:Herp,HMCM:Mamm"
+Institute of Meteoritics at University of New Mexico,UNM:MET
+Jurica-Suchy Nature Museum at Benedictine University,"JSNM:Egg,JSNM:Herb,JSNM:Paleo"
+Kansas State Biorepository,"KSB:Mamm,KSB:Teach"
+"Kenai National Wildlife Refuge, Alaska (KNWR)","KNWR:Ento,KNWR:Env,KNWR:Herb,KNWR:Inv,KNWRObs:Bird,KNWRObs:Fish,KNWRObs:Herb,KNWRObs:Mamm"
+Kenelm W. Philip Lepidoptera Collection (KWP),KWP:Ento
+"Kenneth S. Norris Center for Natural History, University of California, Santa Cruz (UCSC)","UCSC:Bird,UCSC:Herp,UCSC:Mamm"
+Lingnan University,LINGU:Herp
+Mississippi Museum of Natural Science,MMNS:Mamm
+Moore Laboratory of Zoology (MLZ),"MLZ:Bird,MLZ:Egg,MLZ:Fish,MLZ:Herb,MLZ:Mamm,MLZObs:Fish"
+Museum of Southwestern Biology (MSB),"MSB:Arth,MSB:Bird,MSB:DGR,MSB:Fish,MSB:Herp,MSB:Host,MSB:Inv,MSB:Mamm,MSB:Para,MSBObs:Herp,MSBObs:Mamm"
+Museum of Vertebrate Zoology,"MVZ:Arch,MVZ:Bird,MVZ:Egg,MVZ:Fish,MVZ:Herp,MVZ:Hild,MVZ:Mamm,MVZObs:Bird,MVZObs:Herp,MVZObs:Mamm"
+Natural History Museum of Utah,"UMNH:Bird,UMNH:Herp,UMNH:Mamm,UMNH:Teach"
+Natural History Museum of Utah (UMNH),UMNH:Para
+Natural History Society of Maryland,"NHSM:Arc,NHSM:Bird,NHSM:Geol,NHSM:Herb,NHSM:Herp,NHSM:Mamm"
+New Mexico Museum of Natural History and Science,"NMMNH:Bird,NMMNH:Ento,NMMNH:Fish,NMMNH:Geol,NMMNH:Herb,NMMNH:Herp,NMMNH:Inv,NMMNH:Mamm,NMMNH:Obs,NMMNH:Paleo"
+North Carolina Wildlife Resources Commission,"NCWRC:Fish,NCWRC:Herp,NCWRC:Mamm"
+Northern Michigan University (NMU),"NMU:Bird,NMU:Herp,NMU:Mamm,NMU:Para"
+Ocean Genome Legacy,OGL:Genomic
+Ohio Wesleyan University,"OWU:Amph,OWU:Bird,OWU:ES,OWU:Fish,OWU:Inv,OWU:Mamm,OWU:Para,OWU:Rept"
+Puget Sound Museum of Natural History,PSM:Paleo
+Trinity College Dublin Geological Museum,"TCDGM:Mineral,TCDGM:Paleo,TCDGM:Rock"
+Truckee Meadows Community College,"TMCC:Ento,TMCC:Herb,TMCC:Herp,TMCC:Inv,TMCC:Mamm"
+U.S. National Biomonitoring Specimen Bank,NBSB:Bird
+U.S. National Parasite Collection,USNPC:Para
+Universidad San Francisco de Quito,ZSFQ:Herp
+University of Alaska Anchorage,UAA:Ento
+University of Alaska Fairbanks (UAF),UAF:Zooarch
+University of Alaska Museum (UAM),"UAM:Alg,UAM:Arc,UAM:Art,UAM:Bird,UAM:EH,UAM:ES,UAM:Ento,UAM:Env,UAM:Fish,UAM:Herb,UAM:HerbLib,UAM:Herp,UAM:Inv,UAM:Mamm,UAM:Myco,UAMObs:Bird,UAMObs:Ento,UAMObs:Fish,UAMObs:Mamm,UAMb:Herb"
+University of Antananarivo (UA),UA:Paleo
+University of Colorado Museum of Natural History (UCM),"UCM:Bird,UCM:Egg,UCM:Fish,UCM:FossilEgg,UCM:FossilTrack,UCM:FossilVert,UCM:Herp,UCM:Mamm,UCM:Obs,UCM:Para"
+University of Montana Zoological Museum (UMZM),"UMZM:Bird,UMZM:Egg,UMZM:Mamm,UMZM:Para"
+"University of Nevada, Reno (UNR)","UNR:Bird,UNR:Egg,UNR:Fish,UNR:Herp,UNR:Mamm"
+University of New Mexico,"UNM:Geol,UNM:Paleo"
+University of North Carolina at Greensboro,"UNCG:Mamm,UNCG:Para"
+University of Texas at El Paso Biodiversity Collections,"UTEP:Arc,UTEP:Bird,UTEP:ES,UTEP:Ento,UTEP:Fish,UTEP:Herb,UTEP:Herp,UTEP:HerpOS,UTEP:Inv,UTEP:Mamm,UTEP:Teach,UTEP:Zoo,UTEPObs:Ento,UTEPObs:Herp"
+University of Wisconsin Zoological Museum,"UWZM:Bird,UWZM:Herp,UWZM:Mamm"
+University of Wyoming Museum of Vertebrates (UWYMV),"UWYMV:Bird,UWYMV:Egg,UWYMV:Fish,UWYMV:Herp,UWYMV:Mamm"
+"Washington State University, Charles R. Conner Museum","CRCM:Bird,CRCM:Fish,CRCM:Herp,CRCM:Mamm,CRCM:Paleo"
+Western New Mexico University,"WNMU:Bird,WNMU:Fish,WNMU:Mamm"
