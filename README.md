@@ -6,6 +6,4 @@ Repository for documentation and code associated with this 2024-2025 Practicum
 Private until completion
 
 
-[Tableau Arctos Dashboard (work in progress)](https://public.tableau.com/app/profile/shivani.tayade2152/viz/Arctos/Summary)
-
-[Google form] [(https://docs.google.com/forms/d/1fVmYQF91GkB-ygdHshK_qMxNUjAnUD62xP2NHDymuCk/)]
+[Google form feedback survey] [(https://docs.google.com/forms/d/1fVmYQF91GkB-ygdHshK_qMxNUjAnUD62xP2NHDymuCk/)]
