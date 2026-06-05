@@ -108,7 +108,7 @@ cd ~/Desktop/arctos_update
 python3 arctos_update.py
 ```
 
-The script will print progress as it runs. It takes about **8–10 minutes** to complete. You will see output like:
+The script will print progress as it runs. It takes about **10–15 minutes** to complete. You will see output like:
 
 ```
 Arctos Dashboard Update Tool (ZIP / GZ)
